@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-tester-b355e": {
+      "hosting": {
+        "firestarter-demo": [
+          "angular-tester-b355e"
+        ]
+      }
+    }
+  }
+}
